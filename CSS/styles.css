@@ -1,6 +1,6 @@
 body 
 {
-    color: lightgrey;
+    color: grey;
     text-align: center;
     font-family: 'Arial';
     font-size: 16px;
@@ -27,6 +27,13 @@ body
     font-size: 20px;
     background: lightgrey;
 
+
+}
+
+#cabecera #logo
+{
+    width: 25px;
+    vertical-align: middle;
 
 }
 
